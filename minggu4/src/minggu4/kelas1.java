@@ -12,11 +12,11 @@ package minggu4;
 public class kelas1 {
     {
         System.out.println(11);
-    }
+    } //kedua
     
     static{
         System.out.println(2);
-    }
+    } //ini pertama, ini di tampilin sekali soalnya static
     
     public kelas1(int i){
         System.out.println(3);
@@ -24,5 +24,5 @@ public class kelas1 {
     
     public kelas1(){
         System.out.println(4);
-    }
+    } //ketiga
 }

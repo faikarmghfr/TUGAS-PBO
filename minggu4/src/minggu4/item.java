@@ -11,12 +11,11 @@ package minggu4;
  */
 public class item {
     private String name;
-    
     private item(){
-        name = "Ipin";
+        name = "ipin";
     }
     public item(String name){
-        this.name = "Ipin";
+        this();
         System.out.println(this.name);
     }
 }
