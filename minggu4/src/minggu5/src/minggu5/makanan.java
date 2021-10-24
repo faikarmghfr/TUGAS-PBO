@@ -10,7 +10,7 @@ package minggu5;
  * @author faikar
  */
 public class makanan {
-    private String[] nama_makanan;
+        private String[] nama_makanan;
 	private double[] harga_makanan;
 	private int[] stok;
 
