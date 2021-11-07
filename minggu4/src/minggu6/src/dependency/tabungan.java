@@ -11,4 +11,6 @@ package dependency;
  */
 public class tabungan {
     
+    int banyakTabungan = 1000;
+    
 }
