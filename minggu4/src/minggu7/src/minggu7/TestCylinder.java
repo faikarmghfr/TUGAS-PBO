@@ -36,6 +36,12 @@ public class TestCylinder {
                 + " height=" + c3.getHeight()
                 + " base area=" + c3.getArea()
                 + " volume=" + c3.getVolume());
+        
+        System.out.println();
+        System.out.println(c1);
+        System.out.println(c2);
+        System.out.println(c3);
+        
     }
     
 }
